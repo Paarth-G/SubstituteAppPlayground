@@ -11,9 +11,6 @@ import UIKit
 class AdminForm: Form
 {
 
-    func state0(_ object: NSObject)
-    {
-        
-    }
+
 
 }
