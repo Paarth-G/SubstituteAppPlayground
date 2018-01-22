@@ -10,9 +10,9 @@ import UIKit
 
 class Form: NSObject
 {
-    func state0(_ object: NSObject)
+    func state0(_ object: NSObject) -> Bool
     {
-        
+        return false
     }
     
 }
